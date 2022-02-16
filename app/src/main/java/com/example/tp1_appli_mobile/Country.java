@@ -1,6 +1,6 @@
 package com.example.tp1_appli_mobile;
 
-
+// class country
 public class Country {
 
     private String name;
